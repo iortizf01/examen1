@@ -1,3 +1,7 @@
 Me encuentro en mi rama uno
 Y eso es todo amigos
+<<<<<<< HEAD
 Que pasa?? Se ha borrado lo que habia escrito anteriormente
+=======
+Hola, vuelvo de nuevo a esta pagina
+>>>>>>> isabelortiz
